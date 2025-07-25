@@ -18,6 +18,9 @@ markup:
 
 menu:
   main:
+    - name: Posts
+      pageRef: /blog
+      weight: 1
     - name: About
       pageRef: /about
       weight: 2
@@ -38,6 +41,9 @@ params:
   navbar:
     displayTitle: true
     displayLogo: false
+
+  toc:
+    enable: true
 
   footer:
     displayCopyright: false
