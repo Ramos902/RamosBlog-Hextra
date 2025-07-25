@@ -57,7 +57,7 @@ jobs:
         run: |
           hugo \
             --gc --minify \
-            --baseURL "https://${{ ramos902 }}.github.io/"
+            --baseURL "https://ramos902.github.io/RamosBlog-Hextra/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
