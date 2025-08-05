@@ -1,6 +1,8 @@
 # Hugo configuration file
 title: RamosBlog  
 
+uglyURLs: true
+
 # import hextra as module
 module:
   imports:
@@ -51,4 +53,4 @@ params:
 
   editURL:
     enable: true
-    base: "https://github.com/Ramos902/RamosBlog-Hextra/tree/main/content"
+    base: "https://ramos902.github.io/RamosBlog-Hextra/"
