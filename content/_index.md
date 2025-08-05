@@ -8,6 +8,6 @@ toc: false
 
 ## Categorias
 
-- [Review](./content/blog/review/)
-- [Development](./content/blog/development/)
-- [Health](./content/blog/health/)
+- [Review](./blog/review/)
+- [Development](./blog/development/)
+- [Health](./blog/health/)
