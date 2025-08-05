@@ -1,6 +1,7 @@
 ---
 title: "Mchoose V9 Pro - Review"
 date: 2025-07-28T18:40:05-03:00
+categories: ["Review"]
 draft: false
 ---
 
